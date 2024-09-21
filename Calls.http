@@ -1,0 +1,10 @@
+
+### GET request to example server  RagOpenAi using spring ai version 0.0.8
+http://localhost:8080/q?message=Who Iis the candidat for the internership
+
+
+### GET request to get the image to text explained using spring ai 1.0.0-M2 version
+http://localhost:8888/ImageTextRecognition
+
+
+

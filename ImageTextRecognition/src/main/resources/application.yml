@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: spring-text-image-recognition
+  ai:
+    openai:
+      api-key: sk-a_ORg3HB2XMfXv2RLfcVjWFp-TsCPHVAyOjjx_tBAUT3BlbkFJ_5LtFAB5hPyjsHFQTHLpg_YWM9e8Fkl9r2uaZlmPYA
+      chat:
+        options:
+          model: gpt-4o
+server:
+  port: 8888
+
+
+
